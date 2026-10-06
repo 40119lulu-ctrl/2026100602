@@ -1,0 +1,6 @@
+text,option1,option2,option3,option4,correctIndex,imagePath
+這是什麼生物？,貓,狗,倉鼠,根本沒有這種生物,0,data/question1.jpg
+這是什麼生物？,兔子,狗,水獺,根本沒有這種生物,1,data/question2.jpg
+這是什麼生物？,綠角鴞,憤怒小雞,鳥,根本沒有這種生物,2,data/question3.jpg
+這是什麼生物？,貓,地獄魔王,惡魔小狗,根本沒有這種生物,0,data/question4.jpg
+這是什麼生物？,蔬菜精靈,貓,高麗菜,根本沒有這種生物,1,data/question5.jpg
